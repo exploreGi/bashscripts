@@ -1,0 +1,2 @@
+# bashscripts
+some scripting exercises
