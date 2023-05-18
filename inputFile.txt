@@ -1,0 +1,4 @@
+This is a text file
+It will read some lines
+The script will output the lines on console
+It will give the count of number of lines
